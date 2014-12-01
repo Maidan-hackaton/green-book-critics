@@ -20,19 +20,19 @@
 <td>Конфлікт інтересів</td>
 <td>ДП</td>
 <td>Прямий найм</td>
-<td>UK GDS</td>
+<td>[GDS](https://www.gov.uk/government/organisations/government-digital-service)</td>
 </tr>
 <tr>
 <td>Монополія</td>
 <td>Тендери</td>
 <td>Відкритий найм</td>
-<td>&quot;We are hiring&quot;</td>
+<td>[&quot;We are hiring&quot;](https://gds.blog.gov.uk/2011/10/25/the-second-lever/)</td>
 </tr>
 <tr>
 <td>Копірайт</td>
 <td>?</td>
 <td>Open source license</td>
-<td>OGL</td>
+<td>[OGL](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)</td>
 </tr>
 <tr>
 <td>Мотивація</td>
@@ -44,13 +44,13 @@
 <td>Брак коштів</td>
 <td>Гранти</td>
 <td>Open collaboration</td>
-<td>Github</td>
+<td>[AlphaGov on Github](https://github.com/alphagov) ([About](https://en.wikipedia.org/wiki/Alphagov))</td>
 </tr>
 <tr>
 <td>Інтереси бізнесу</td>
 <td>Сильне лоббі</td>
 <td>Open data, робіть меньше</td>
-<td>Data.gov.uk</td>
+<td>[Data.gov.uk](http://data.gov.uk/)</td>
 </tr>
 </tbody>
 </table>
