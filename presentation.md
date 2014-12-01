@@ -58,4 +58,3 @@
 * Open data
 * Open collaboration
 * Open source
----
