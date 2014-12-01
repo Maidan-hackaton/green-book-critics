@@ -55,7 +55,7 @@
 </table>
 
 ---
-Open data
-Open collaboration
-Open source
+* Open data
+* Open collaboration
+* Open source
 ---
